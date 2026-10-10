@@ -1,0 +1,58 @@
+[Japanese text may not display depending on your PCs default language. Rough translation below]
+
+
+「コールタールしめじ」をダウンロードしていただきありがとうございます。
+
+
+「コールタールしめじ」はデスクトップマスコット「しめじ」に、
+画像の変更・追加、動作・行動.xmlの調整を加えたものです。
+
+
+「しめじ」については本家サイト様をご覧ください。ホームページへのリンクが同梱されています。
+本家「しめじ」の製作者様にご迷惑をおかけすることのないよう、お願いします。
+
+
+「コールタールしめじ」の使用によって生じるいかなる損害についても、
+「コールタールしめじ」作者および「しめじ」作者は一切の責任を負わないものとします。
+
+
+複製・再配布等していただいて構いませんが、良識の範囲内でお願いします。
+元のデータからかなり改変していますので、再利用には向かないと思います。
+
+
+一個人が楽しみとして作成したものです。
+各公式とは何の関係もありません。
+
+
+※一般的な改造しめじと比べて二倍以上の画像を使用していますので、
+　マスコットの数が増えると、PCに予想以上の負荷がかかる場合があります。
+
+
+
+2011.05.14　みあま
+
+[ENGLISH TL]
+
+Thank you for downloading "Coaltar Shimeji".
+
+
+The "Coal Tar Shimeji" is a desktop mascot "Shimeji" with some changes and additions of images, and some adjustments of its behavior and action.xml.
+
+
+Please refer to the original site for more information about "Shimeji". 
+Please do not cause any inconvenience to the creator of the original "Shimeji".
+
+
+Any damages arising from the use of "Shimeji Coal Tar" will be paid by the author of "Shimeji" and the creator of "Shimeji" shall not be held liable for any damages whatsoever arising from the use of "Shimeji".
+
+
+You may copy and redistribute this data, but please do so within the bounds of common sense. the data has been modified considerably from the original data, so it is not suitable for reuse.
+
+
+This is a work created by an individual for his/her own enjoyment.
+It has nothing to do with any of the official organizations.
+
+
+※ The images are more than twice as large as those used in the general modified shimeji. If the number of mascots increases, your PC may be overloaded more than expected.
+
+2011.05.14 Miama
