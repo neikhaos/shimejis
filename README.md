@@ -18,90 +18,89 @@ All of the Shimeji's can be updated by simply replacing the newer version of <co
 # Contents
 
 ### Rin Okumura - Version 1
-[!]
+![Rin Okumura - Version 1](https://github.com/neikhaos/shimejis/blob/main/Characters/Rin%20Okumura%201/sample.png)
 
-[SOURCE: 芳よしゆき] — [DOWNLOAD]
+[SOURCE: 芳よしゆき] — [DOWNLOAD](/tree/main/Characters/Rin%20Okumura%201)
 
 ### Rin Okumura - Version 2
-[!]
+![Rin Okumura - Version 2](https://github.com/neikhaos/shimejis/blob/main/Characters/Rin%20Okumura%202/sample.png)
 
-[SOURCE: 青乃とうふ] — [DOWNLOAD]
+[SOURCE: 青乃とうふ] — [DOWNLOAD](/tree/main/Characters/Rin%20Okumura%202)
 
 ### Rin Okumura - Version 3
-[!]
+![Rin Okumura - Version 3](https://github.com/neikhaos/shimejis/blob/main/Characters/Rin%20Okumura%203/sample.png)
 
-[SOURCE: pikagirl65neo] — [DOWNLOAD]
+[SOURCE: pikagirl65neo] — [DOWNLOAD](/tree/main/Characters/Rin%20Okumura%203)
 
 ### Rin Okumura - Version 4
-[!]
+![Rin Okumura - Version 4](https://github.com/neikhaos/shimejis/blob/main/Characters/Rin%20Okumura%204/sample.png)
 
-[SOURCE: privated/removed Pixiv user] — [DOWNLOAD]
+[SOURCE: deleted Pixiv user] — [DOWNLOAD](/tree/main/Characters/Rin%20Okumura%204)
 
 ### Rin Okumura - Version 5
-[!]
+![Rin Okumura - Version 5](https://github.com/neikhaos/shimejis/blob/main/Characters/Rin%20Okumura%205/sample.png)
 
-[SOURCE: Unknown] — [DOWNLOAD]
+[SOURCE: Unknown] — [DOWNLOAD](/tree/main/Characters/Rin%20Okumura%205)
 
 ### Rin Okumura - Version 6
-[!]
+![Rin Okumura - Version 6](https://github.com/neikhaos/shimejis/blob/main/Characters/Rin%20Okumura%206/sample.png)
 
-[SOURCE: privated/removed Pixiv user] — [DOWNLOAD]
+[SOURCE: deleted Pixiv user] — [DOWNLOAD](/tree/main/Characters/Rin%20Okumura%206)
 
 ### Yukio Okumura
-[!]
+![Yukio Okumura](https://github.com/neikhaos/shimejis/blob/main/Characters/Yukio%20Okumura/sample.png)
 
-[SOURCE: Unknown] — [DOWNLOAD]
+[SOURCE: Unknown] — [DOWNLOAD](/tree/main/Characters/Yukio%20Okumura)
 
 ### Ryuji Suguro
-[!]
+![Ryuji Suguro](https://github.com/neikhaos/shimejis/blob/main/Characters/Ryuji%20Suguro/sample.png)
 
-[SOURCE: 青乃とうふ] — [DOWNLOAD]
+[SOURCE: 青乃とうふ] — [DOWNLOAD](/tree/main/Characters/Ryuji%20Suguro)
 
 ### Renzo Shima - Version 1
-Version 1
-[!]
+![Renzo Shima - Version 1](https://github.com/neikhaos/shimejis/blob/main/Characters/Renzo%20Shima%201/sample.png)
 
-[SOURCE: 青乃とうふ] — [DOWNLOAD]
+[SOURCE: 青乃とうふ] — [DOWNLOAD](/tree/main/Characters/Renzo%20Shima%201)
 
 ### Renzo Shima - Version 2
-[!]
+![Renzo Shima - Version 2](https://github.com/neikhaos/shimejis/blob/main/Characters/Renzo%20Shima%202/sample.png)
 
-[SOURCE: Unknown] — [DOWNLOAD]
+[SOURCE: Unknown] — [DOWNLOAD](/tree/main/Characters/Renzo%20Shima%202)
 
 ### Mephisto - Version 1
-[!]
+![Mephisto - Version 1](https://github.com/neikhaos/shimejis/blob/main/Characters/Mephisto%201/sample.png)
 
-[SOURCE: Unknown] — [DOWNLOAD]
+[SOURCE: Unknown] — [DOWNLOAD](/tree/main/Characters/Mephisto%201)
 
 ### Mephisto - Version 2
-[!]
+![Mephisto - Version 2](https://github.com/neikhaos/shimejis/blob/main/Characters/Mephisto%202/sample.png)
 
-[SOURCE: privated/removed Pixiv user] — [DOWNLOAD]
+[SOURCE: deleted Pixiv user] — [DOWNLOAD](/tree/main/Characters/Mephisto%202)
 
 ### Mephisto - Version 3
-[!]
+![Mephisto - Version 3](https://github.com/neikhaos/shimejis/blob/main/Characters/Mephisto%203/sample.png)
 
-[SOURCE: NOki] — [DOWNLOAD]
+[SOURCE: NOki] — [DOWNLOAD](/tree/main/Characters/Mephisto%203)
 
 ### Amaimon
-[!]
+![Amaimon](https://github.com/neikhaos/shimejis/blob/main/Characters/Amaimon/sample.png)
 
-[SOURCE: privated/removed Pixiv user] — [DOWNLOAD]
+[SOURCE: deleted Pixiv user] — [DOWNLOAD](/tree/main/Characters/Amaimon)
 
 ### Kinzo Shima
-[!]
+![Kinzo Shima](https://github.com/neikhaos/shimejis/blob/main/Characters/Kinzo%20Shima/sample.png)
 
-[SOURCE: 青乃とうふ] — [DOWNLOAD]
+[SOURCE: 青乃とうふ] — [DOWNLOAD](/tree/main/Characters/Kinzo%20Shima)
 
 ### Kuro
-[!]
+![Kuro](https://github.com/neikhaos/shimejis/blob/main/Characters/Kuro/sample.png)
 
-[SOURCE: Unknown] — [DOWNLOAD]
+[SOURCE: Unknown] — [DOWNLOAD](/tree/main/Characters/Kuro)
 
 ### Coal Tar (Fully Animated)
-[!]
+![Coal Tar](https://github.com/neikhaos/shimejis/blob/main/Characters/Coal%20tar/sample.png)
 
-[SOURCE: みあま邑] — [DOWNLOAD]
+[SOURCE: みあま邑] — [DOWNLOAD](/tree/main/Characters/Coal%20tar)
 
 # Credits
 All artwork & animations are credited to their respective creators.
